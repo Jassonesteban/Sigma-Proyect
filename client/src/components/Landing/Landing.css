@@ -1,0 +1,114 @@
+
+.form-img-banner{
+    width: 130%;
+    float: right;
+    padding: 10px;
+    margin-top: 10%;
+}
+
+.box-logo {
+    text-align: center;
+    margin-bottom: 5%;
+    width: 100%;
+    height: 100%;
+    position: static;
+}
+
+.img-logo-sigma{
+    height: 75%;
+}
+
+.title-text{
+    text-align: center;
+    font-size: 240%;
+    margin-bottom: 3%;
+    font-weight: bold;
+}
+
+.text-title-label{
+    color: black;
+    font-weight: bold;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.paragraph-text{
+    justify-content: center;
+    color: gray;
+    font-size: 130%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.card-form{
+    border-radius: 30px;
+    box-shadow: 0px 2px 13px 0px rgba(179, 176, 179, 0.712);
+    width: 120%;
+}
+
+.sigma__label{
+    color: black;
+    font-weight: bold;
+    font-size: 120%;
+    margin-bottom: 4%;
+}
+
+.sigma__button{
+    background-color: rgb(226, 60, 93);
+    color: white;
+    width: 40%;
+    height: 40%;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    font-weight: bold;
+}
+
+.sigma__button:hover {
+    background-color: rgb(235, 102, 129);
+    border-color: crimson;
+    color: white;
+}
+
+.box-buttom{
+    text-align: center;
+    margin-top: 7%;
+}
+
+.container{
+    padding: 60px;
+    margin-bottom: 2%;
+}
+
+.sigma__input{
+    width: 100%;
+    height: 90%;
+    color: gray;
+    height: calc(1.5em + 1.75rem + 2px);
+    border-radius: 0.45rem;
+}
+
+.sigma__input:focus{
+    border-color: rgb(220, 20, 80);
+    box-shadow: 0px 2px 13px 0px rgba(216, 123, 131, 0.712);
+
+}
+
+.footer{
+    padding: 30px;
+    margin-top: 5%;
+}
+
+.text-name-label{
+    float: right;
+    color: black;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+
+.text-bussines-label{
+    color: black;
+    font-family: 'Roboto';
+    float: left;
+}

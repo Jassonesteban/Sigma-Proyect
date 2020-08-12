@@ -1,0 +1,6 @@
+.sigma__form {
+  flex-flow: column;
+  max-width:90%;
+  margin: 25px auto;
+  margin-top: 10%;
+}

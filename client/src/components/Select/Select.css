@@ -1,0 +1,16 @@
+.sigma__select {
+  display: block;
+  margin-bottom: 5%;
+  background-color: white;
+  border-radius: 0.45rem;
+  border: 1px solid #ced4da;
+  outline: none;
+  width: 100%;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 1rem;
+  padding: 0.375rem 0.75rem;
+  height: calc(1.5em + 1.75rem + 2px);
+  background-clip: padding-box;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
